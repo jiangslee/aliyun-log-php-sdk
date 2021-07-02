@@ -1,0 +1,19 @@
+{
+  "name": "islenbo/aliyun-log-php-sdk",
+  "description": "Aliyun log php sdk supporting composer.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "lenbo",
+      "email": "islenbo@qq.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "files": [
+      "./Log_Autoload.php"
+    ]
+  }
+}
