@@ -1,5 +1,5 @@
 {
-  "name": "islenbo/aliyun-log-php-sdk",
+  "name": "jiangslee/aliyun-log-php-sdk",
   "description": "Aliyun log php sdk supporting composer.",
   "type": "library",
   "authors": [
